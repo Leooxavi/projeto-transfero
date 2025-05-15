@@ -37,3 +37,11 @@ git config --global user.email "leonardo.xavgarcia@gmail.com"
 git init
 
 git add .
+
+git commit -m "uma nova atualização"
+
+
+git remote add origin https://github.com/Leooxavi/projeto-transfero.git
+
+
+git push -u origin main
