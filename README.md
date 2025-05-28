@@ -37,6 +37,22 @@ O **StreamVibe** é um site desenvolvido para facilitar a busca por filmes e sé
 
 Primeiro, clone o repositório para sua máquina local:
 
-```bash
-git clone https://github.com/usuario/movieserieshub.git
+```bash[
+git clone https://github.com/usuario/movieserieshub.git](https://github.com/Leooxavi/projeto-transfero.git)
 cd movieserieshub
+
+
+
+Acesse o diretório do projeto:
+
+```bash[
+cd transfero
+
+Instale as dependências:
+
+```bash[
+npm install
+
+Inicie o servidor de desenvolvimento:
+```bash[
+python manage.py runserver
