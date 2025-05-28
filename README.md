@@ -11,8 +11,7 @@ O **StreamVibe** é uma plataforma de streaming que permite aos usuários explor
 - [Descrição](#descrição)
 - [Tecnologias Usadas](#tecnologias-usadas)
 - [Como Rodar o Projeto](#como-rodar-o-projeto)
-- [Como Contribuir](#como-contribuir)
-- [Licença](#licença)
+
 
 ## Descrição
 
